@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.bg-hero-image {
+  background-image: url('./Resources/ayodhya.webp');
+  height: 650px;
+}
+
+.bg-services-image {
+  background-image: url('./Resources/palash.webp');
+}
